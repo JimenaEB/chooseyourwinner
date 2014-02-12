@@ -1,4 +1,4 @@
 chooseyourwinner
 ================
 
-Winner selection for Facebook contests
+Winner selector for Facebook contests
